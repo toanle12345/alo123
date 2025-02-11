@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Response>
-    <Play>https://storage.googleapis.com/prerecords/Alo123.mp3</Play>
+    <Play>https://api.twilio.com/cdnds/voicemail_clips/ahoy_brother_twiml.mp3</Play>
 </Response>
